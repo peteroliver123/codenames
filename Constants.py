@@ -1,0 +1,18 @@
+#Text Formatting
+STRIKE = "\033[9m"
+RESET = "\033[0m"
+
+#Colors
+BLUE = "\033[34m"
+RED = "\033[31m"
+PEACH = "\033[38;5;216m"
+BLACK = "\033[90m"
+
+# Agents
+BLUE_AGENT = "BLUE"
+RED_AGENT = "RED"
+INNOCENT_BYSTANDER = "INNOCENT"
+ASSASSIN = "ASSASSIN"
+
+# Files
+CODENAMES_WORDS_FILE = "game_wordpool.txt"
